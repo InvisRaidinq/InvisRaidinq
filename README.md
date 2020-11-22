@@ -1,18 +1,13 @@
-### Hey, I'm InvisRaidinq 👋
+## Hey, I'm InvisRaidinq 👋
+
+###Current Positions:
+* Head Developer @ AkumaMC
+* Owner @ xSeries
+* Devlopment and Management @ MizuleDevelopment
 
 [![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=InvisRaidinq&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**InvisRaidinq/InvisRaidinq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Contact Me:
+* Twitter: @InvisRaidinq
+* Discord: Invis#0010
+* MC-Market: https://www.mc-market.org/members/146408/
