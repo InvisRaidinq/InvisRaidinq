@@ -5,7 +5,7 @@
 * Owner @ xSeries
 * Devlopment and Management @ MizuleDevelopment
 
-[![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=InvisRaidinq&count_private=false&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=InvisRaidinq&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact Me:
 * Twitter: @InvisRaidinq
