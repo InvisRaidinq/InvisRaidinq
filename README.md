@@ -1,6 +1,6 @@
 ### Hey, I'm InvisRaidinq 👋
 
-[![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=InvisRaidinq)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=InvisRaidinq&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **InvisRaidinq/InvisRaidinq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
